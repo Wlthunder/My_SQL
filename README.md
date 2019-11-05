@@ -1,2 +1,2 @@
 # sql_node
-sql学习笔记。
+MY_SQL
